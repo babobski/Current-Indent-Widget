@@ -1,0 +1,3 @@
+content indent_widget content/
+overlay chrome://komodo/content/komodo.xul chrome://indent_widget/content/overlay.xul
+skin indent_widget classic/1.0 skin/
